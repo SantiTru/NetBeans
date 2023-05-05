@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 5 may 2023, 18:22:20
-    Author     : truji
+    Author     : SantiTru
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Primera prueba NetBeans</title>
     </head>
     <body>
         <h1>Hello World!</h1>
